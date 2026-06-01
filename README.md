@@ -7,11 +7,12 @@ Aplicação web "Conecta Causa" (simulador de arrecadação) feita com Django e 
 * (opcional) virtualenv
 
 <b>Instalação</b>
+
 Usando o terminal, execute o seguinte:
 
 ``python -m venv venv && source venv/bin/activate``
 
-``pip install -r requirements.txt`` (ou ``pip install django``)
+``pip install -r requirements.txt`` (ou ``pip install django`` caso não tenha django)
 
 <b>Inicialização</b>
 
